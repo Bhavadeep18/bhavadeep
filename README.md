@@ -2,6 +2,5 @@
 
 This my first github
 
-Author: bhavadeep\n
-This is new to me
+Author: bhavadeep \nThis is new to me
 
